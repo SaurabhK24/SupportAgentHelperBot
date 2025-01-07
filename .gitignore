@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.virtualenv/
+.virtualenvs/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+*.ini
+
+# Logs
+*.log
+*.log.*
+
+# Cache and other generated files
+*.DS_Store
+*.swp
+*.swo
+.cache/
+coverage/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MyPy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# macOS Finder
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Docker
+*.pid
+*.tar
+
+# Linting tools
+pylint.log
+flake8.log
