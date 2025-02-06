@@ -56,3 +56,9 @@ coverage/
 # Linting tools
 pylint.log
 flake8.log
+
+# Resume
+resume.txt
+resume.pdf
+# Job Listings
+job_listings.txt
