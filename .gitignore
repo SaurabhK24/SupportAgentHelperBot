@@ -53,6 +53,9 @@ coverage/
 *.pid
 *.tar
 
+# CSV
+*.csv
+
 # Linting tools
 pylint.log
 flake8.log
